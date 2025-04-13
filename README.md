@@ -1,8 +1,5 @@
-Got it! Here's your updated `README.md` with `.env` usage instructions included under the **How to Run** section:
 
----
 
-```markdown
 # LLaMA 3.2 1B LoRA Fine-Tuning
 
 This project fine-tunes Meta's LLaMA 3.2 1B model on the SQuAD dataset using PEFT (LoRA) and 4-bit quantization.

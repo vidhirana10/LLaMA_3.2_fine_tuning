@@ -68,6 +68,6 @@ llama_lora_finetune/
 
 ---
 
-Built with ❤️ by Vidhi Rana
+Built by Vidhi Rana
 ```
 
